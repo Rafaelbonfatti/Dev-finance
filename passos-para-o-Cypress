@@ -1,0 +1,13 @@
+incializar um projeto node
+
+npm init --yes
+
+instalar o cypess
+npm install -D cypress 
+npm install -D cypress@12.5.0
+
+abrir o Cyprees
+    com o npx cypress open 
+
+    para abrirmos o cypress no terminal:
+    npx cypress run
