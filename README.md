@@ -15,3 +15,5 @@ JavaScript: Linguagem de programação principal do projeto.
 
 Cypress: Ferramenta de teste end-to-end para testes automatizados.
 
+<img src="https://github.com/Rafaelbonfatti/Dev-finance/blob/master/assets/Desktop%20and%20mobile.png?raw=true"/>
+
